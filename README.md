@@ -1,3 +1,5 @@
+# React Giphy
+## Get started
 ```
 git init
 touch README.md .gitignore
