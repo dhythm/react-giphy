@@ -1,9 +1,10 @@
 import React from 'react';
+import GiphyView from './components/GiphyView';
 
 const App: React.FunctionComponent = () => {
   return (
     <div className="App">
-      <h1>Hello, world</h1>
+      <GiphyView />
     </div>
   );
 };

@@ -14,6 +14,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@giphy/js-fetch-api": "^1.6.0",
+    "@giphy/react-components": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "dotenv-webpack": "^1.8.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
@@ -25,6 +29,7 @@
     "@types/babel__core": "^7.1.9",
     "@types/babel__preset-env": "^7.9.0",
     "@types/concurrently": "^5.2.1",
+    "@types/dotenv-webpack": "^1.8.0",
     "@types/eslint": "^7.2.0",
     "@types/eslint-plugin-prettier": "^3.1.0",
     "@types/prettier": "^2.0.1",
